@@ -2,6 +2,8 @@
 
 ![hello](./Cover_transparent.png)
 
+I'm Robert, a fresh graduate in Software Development at the University of Malta. Feel free to check out some of my projects while you're here.
+
 <!--
 **robmifsud/robmifsud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
