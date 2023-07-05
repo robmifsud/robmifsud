@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-![hello](./Cover.png)
+![hello](./Cover_transparent.png)
 
 <!--
 **robmifsud/robmifsud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
