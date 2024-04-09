@@ -23,5 +23,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat-square" alt="HTML5"/>
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=flat-square" alt="TensorFlow"/>
     <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=black&style=flat-square" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
